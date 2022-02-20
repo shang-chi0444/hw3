@@ -1,0 +1,313 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.header{
+    width: 100%;
+    height: 48px;
+    background-color: #250954;
+}
+.img{
+    padding-left: 10%;
+    padding-top: 15px;
+}
+.text{
+    color: white;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+    font-style: normal;
+    font-size: 12px;
+    line-height: 16px;
+    padding-left: 12%;
+    margin-top: -15px;
+}
+.img2{
+    padding-left: 25%;
+    margin-top: -15px;
+
+}
+.text2{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+    font-style: normal;
+    font-size: 12px;
+    line-height: 16px;
+    color: white;
+    padding-left: 27%;
+    margin-top: -18px;
+}
+.text3{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 500;
+    font-style: normal;
+    font-size: 12px;
+    line-height: 16px;
+    color: #fff;
+    padding-left: 34.3%;
+    margin-top: -16px;
+}
+.img3{
+    padding-left: 43.5%;
+    margin-top: -14px;
+}
+.text4{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+    font-style: normal;
+    font-size: 12px;
+    line-height: 16px;
+    color: #fff;
+    padding-left: 45.5%;
+    margin-top: -18px;
+}
+.text5{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 500;
+    font-style: normal;
+    font-size: 12px;
+    line-height: 16px;
+    color: #fff;
+    padding-left: 53.5%;
+    margin-top: -16px;
+}
+.text6{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+    font-style: normal;
+    font-size: 12px;
+    line-height: 16px;
+    color: #fff;
+    padding-left: 66%;
+    margin-top: -16px;
+}
+.text7{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+    font-style: normal;
+    font-style: 12px;
+    line-height: 16px;
+    color: #fff;
+    padding-left: 89%;
+    margin-top: -15.5px;
+}
+.text8{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 500;
+    font-style: normal;
+    font-size: 12px;
+    line-height: 16px;
+    color: #fff;
+    padding-left: 92%;
+    margin-top: -16px;
+}
+.img4{
+    padding-left: 96%;
+    margin-top: -16px;
+}
+.information{
+    width: 100%;
+    height: 72px;
+    background-color: #fff;
+}
+.img5{
+    padding-left: 10%;
+    padding-top: 15px;
+}
+.img6{
+    padding-left: 14%;
+    margin-top: -30px;
+}
+.text9{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+    font-style: normal;
+    font-size: 16px;
+    line-height: 24px;
+    color: #212121;
+    padding-left: 25%;
+    margin-top: -21px;
+}
+.text10{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+    font-style: normal;
+    font-size: 16px;
+    line-height: 24px;
+    color: #212121;
+    padding-left: 38.5%;
+    margin-top: -23px;
+}
+.text11{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+    font-style: normal;
+    font-size: 16px;
+    line-height: 24px;
+    color: #212121;
+    padding-left: 49.5%;
+    margin-top: -23px;
+}
+.text12{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+    font-style: normal;
+    font-size: 16px;
+    line-height: 24px;
+    color: #212121;
+    padding-left: 61%;
+    margin-top: -24px;
+}
+.text13{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+    font-style: normal;
+    font-size: 16px;
+    line-height: 24px;
+    color: #212121;
+    padding-left: 75%;
+    margin-top: -23px;
+}
+.poisk{
+    width: 48px;
+    height: 48px;
+    background-color: #fff;
+    border: 2px solid #332974;
+    border-radius: 8px;
+    margin-left: 82%;
+    margin-top: -35px;
+}
+.vector{
+    padding-top: 15px;
+    padding-left: 14px;
+}
+.student__cab{
+    width: 150px;
+    height: 48px;
+    background-color: #fff;
+    border: 2px solid #332974;  
+    border-radius: 8px;
+    margin-left: 87%;
+    margin-top: -48.5px;
+}
+.text14{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+    font-style: normal;
+    font-size: 14px;
+    line-height: 24px;
+    text-align: center;
+    padding-top: 10px;
+}
+.start__mid{
+    width: 100%;
+    height: 634px;
+}
+.img7{
+    padding-top: 10px;
+}
+.img8{
+    padding-left: 60px;
+    margin-top: -85px;
+    border-radius: 8px;
+    box-shadow: 0px 4px 32px rgba(33, 33, 33, 0.08)   
+}
+.news__text{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+    font-style: normal;
+    font-size: 28px;
+    line-height: 36px;
+    color: #212121;
+    padding-top: 80px;
+    padding-left: 42px;
+}
+.news__text2{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+    font-style: normal;
+    font-size: 16px;
+    line-height: 24px;
+    text-align: right;
+    margin-right: 100px;
+    margin-top: -30px;
+}
+.img9{
+   margin-left: 3%; 
+   margin-top: 6px;
+}
+.img10{
+    margin-top: 15px;
+    margin-left: 85px;
+}
+.img11{
+    margin-left: 28%;
+    margin-top: -23.4%;
+}
+.img12{
+    margin-left: 51%;
+    margin-top: -23.4%;
+}
+.img13{
+    margin-left: 73.5%;
+    margin-top: -23.5%;
+}
+.strelka{
+    width: 36px;
+    height: 36px;
+    background-color: #fff;
+    box-shadow: 0px 4px 32px 0px #21212129;
+    border-radius: 50%;
+    margin-left: 3%;
+    margin-top: -180px;
+}
+.img14{
+    margin-top: 0;
+    margin-left: 52.5px;
+    margin-top: -25px;
+}
+.strelka2{
+    width: 36px;
+    height: 36px;
+    background-color: #fff;
+    box-shadow: 0px 4px 32px 0px #21212129;
+    border-radius: 50%;
+    margin-left: 93%;
+    margin-top: -33px;
+}
+.img15{
+    margin-left: 94.2%;
+    margin-top: -24px;
+}
+.text15{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bolder;
+    font-style: normal;
+    font-size: 28px;
+    line-height: 36px;
+    color: #212121;
+    text-align: left;
+    margin-top: 190px;
+    margin-left: 50px;
+}
+hr{
+    margin-top: 15px;
+    width: 1250px;
+    margin-left: 40px;
+    background: #D0CFD9;
+    height: 1px;
+}
+.img16{
+    margin-left: 50px;
+    margin-top: 30px;
+}
+.img17{
+    margin-left: 12%;
+    margin-top: -30%;
+}
+.img18{
+    margin-left: 51.5%;
+    margin-top: -29.3%;
+}
+
+
